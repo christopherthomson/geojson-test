@@ -1,0 +1,16 @@
+{ "type": "FeatureCollection", 
+  "features": [
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [172.637146, -43.530718]
+  },
+  "properties": {
+    "Name": "Christchurch Cathedral",
+    "Thumbnail": "thumbs/test1.jpeg",
+    "Link": "https://quakestudies.canterbury.ac.nz/store/part/190698"
+  }
+}]
+}
+
